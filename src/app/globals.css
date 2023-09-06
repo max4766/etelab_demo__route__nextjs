@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+}
+
+.topNav {
+  padding: 0;
+  margin: 1rem;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-content: center;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.topNavList {
+  padding: 0;
+  margin: 1rem;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-content: center;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.topNavListItem:first-child {
+  padding-left: 0;
+}
+
+.topNavListItem {
+  padding-left: 5rem;
+  list-style: none;
+}
+
+.topNavListItem a {
+  text-decoration: none;
+  color: black;
+}
+
+.topNavListItem a:hover {
+  color: blue
+}
+
+.topNavDashBoard {
+  padding: 0;
+  margin: 1rem;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-content: center;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.topNavDashBoardItem {
+  padding-left: 5rem;
+  list-style: none;
+}
+
+.topNavDashBoardItem:first-child {
+  padding-left: 0;
+}
