@@ -13,7 +13,9 @@ First, copy this project's URL and clone this project into your local with git :
 git clone [project URL]
 ```
 
-FYI, No need to make a new folder for this project is already packed in the folder with it's project name when you clone.
+FYI, No need to make a new folder for this project. 
+
+it is already packed in the folder with it's project name when you clone.
 
 Then, recover packages. update node_modules with the command below :
 
