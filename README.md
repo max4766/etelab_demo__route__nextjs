@@ -43,7 +43,7 @@ Congratulations! you can now see the view of this project!
 
 ## About the source
 
-`src/app/layout.tsx` : all page's fixed layout. in this project's case, 
+- `src/app/layout.tsx` : all page's fixed layout. in this project's case, 
 
 it's a top navigation bar which redirects you to other pages.
 
