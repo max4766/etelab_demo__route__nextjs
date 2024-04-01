@@ -13,7 +13,15 @@ First, copy this project's URL and clone this project into your local with git :
 git clone [project URL]
 ```
 
-Then, run the development server with one of the commands below (npm recommended) :
+FYI, No need to make a new folder for this project is already packed in the folder with it's project name when you clone.
+
+Then, recover packages. update node_modules with the command below :
+
+```bash
+npm run dev
+```
+
+Next, run the development server with one of the commands below (npm recommended) :
 
 ```bash
 npm run dev
