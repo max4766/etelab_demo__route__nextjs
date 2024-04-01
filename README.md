@@ -1,14 +1,28 @@
+# Introduction
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+This is a demo web page(ETELAB) that uses route which is already set by Next.js.
 
 ## Getting Started
 
-First, run the development server:
+First, copy this project's URL and clone this project into your local with git :
+
+```bash
+git clone [project URL]
+```
+
+Then, run the development server with one of the commands below :
 
 ```bash
 npm run dev
-# or
+```
+
+```bash
 yarn dev
-# or
+```
+
+```bash
 pnpm dev
 ```
 
@@ -33,6 +47,5 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 # youngsukHwang
-# nice_toy_project
 # nice_toy_project
 # nice_toy_project
