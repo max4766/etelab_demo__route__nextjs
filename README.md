@@ -20,7 +20,7 @@ it is already packed in the folder with it's project name when you clone.
 Then, recover packages. update node_modules with the command below :
 
 ```bash
-npm run dev
+npm install
 ```
 
 Next, run the development server with one of the commands below (npm recommended) :
