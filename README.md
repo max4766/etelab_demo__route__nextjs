@@ -47,21 +47,21 @@ Congratulations! you can now see the view of this project!
 
 it's a top navigation bar which redirects you to other pages.
 
-`src/app/page.tsx` : It's colored in GREY. main page which you can see as you first load the page. 
+- `src/app/page.tsx` : It's colored in GREY. main page which you can see as you first load the page. 
 
-`src/app/testRequestManage/page.tsx` : a RED page if you click the first tab, 시험의뢰관리
+- `src/app/testRequestManage/page.tsx` : a RED page if you click the first tab, 시험의뢰관리
 
-`src/app/sampleManage/page.tsx` : an ORANGE page if you click the second tab, 샘플관리
+- `src/app/sampleManage/page.tsx` : an ORANGE page if you click the second tab, 샘플관리
 
-`src/app/nonConformanceReportManage/page.tsx` : a YELLOW page if you click the third tab, 부적합관리
+- `src/app/nonConformanceReportManage/page.tsx` : a YELLOW page if you click the third tab, 부적합관리
 
-`src/app/specManage/page.tsx` : a GREEN page if you click the fourth tab, SPEC관리
+- `src/app/specManage/page.tsx` : a GREEN page if you click the fourth tab, SPEC관리
 
-`src/app/noticeBoard/page.tsx` : a BLUE page if you click the fifth tab, 게시판
+- `src/app/noticeBoard/page.tsx` : a BLUE page if you click the fifth tab, 게시판
 
-`src/app/systemManage/page.tsx` : a DARK BLUE page if you click the sixth tab, 시스템관리
+- `src/app/systemManage/page.tsx` : a DARK BLUE page if you click the sixth tab, 시스템관리
 
-`src/app/systemSetting/page.tsx` : a PURPLE page if you click the last tab, 시스템설정
+- `src/app/systemSetting/page.tsx` : a PURPLE page if you click the last tab, 시스템설정
 
 and there are svg and png files in public folder's directory.
 
