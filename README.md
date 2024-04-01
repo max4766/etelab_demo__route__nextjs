@@ -77,17 +77,21 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Goal
 
-The goal of this project was `To check how fast and easily I could build a SPA`
+The goal of this project was `To prove how fast and easily I could build a SPA with route feature of Next.js`
 
-Next.js doesn't contain unlike React.
+Next.js source contains only .tsx not HTML unlike React.
+
+(in this project, I set to use typescript so it's named .tsx)
+
+(so you can use .jsx as well but .tsx is recommended)
 
 It just follows .jsx grammar originated from React.
 
 since it has no HTML, jsx is the only component you can deal with.
 
-Follow the pre-built roles such as 'route' that Next.js suggests.
+Follow the pre-built features such as 'route' that Next.js suggests.
 
-If you know how to make a SPA with React, you would take less time to build a project!
+If you know how to make a SPA with React, it would take you less time to build a project!
 
 ## Learn More
 
@@ -102,7 +106,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# youngsukHwang
-# nice_toy_project
-# nice_toy_project
+Check out [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
