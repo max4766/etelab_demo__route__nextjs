@@ -69,6 +69,10 @@ and some other files that are related to configuration and settings...
 
 (frankly, those are not critical here)
 
+The page auto-updates as you edit the file.
+
+This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+
 ## Goal
 
 The goal of this project was `To check how fast and easily I could build a SPA`
@@ -82,14 +86,6 @@ since it has no HTML, jsx is the only component you can deal with.
 Follow the pre-built roles such as 'route' that Next.js suggests.
 
 If you know how to make a SPA with React, you would take less time to build a project!
-
-
-
-
-
-The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
 ## Learn More
 
