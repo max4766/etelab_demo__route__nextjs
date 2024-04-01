@@ -4,6 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 This is a demo web page(ETELAB) that uses route which is already set by Next.js.
 
+
 ## Getting Started
 
 First, copy this project's URL and clone this project into your local with git :
@@ -12,7 +13,7 @@ First, copy this project's URL and clone this project into your local with git :
 git clone [project URL]
 ```
 
-Then, run the development server with one of the commands below :
+Then, run the development server with one of the commands below (npm recommended) :
 
 ```bash
 npm run dev
